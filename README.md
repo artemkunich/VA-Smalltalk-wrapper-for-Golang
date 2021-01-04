@@ -1,1 +1,1 @@
-# VA-Smalltalk-wrapper-for-Go-HTTP-server
+# Smalltalk-wrapper-for-Go-HTTP-server
